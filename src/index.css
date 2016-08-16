@@ -1,0 +1,12 @@
+body {
+  background-color: lightgrey;
+}
+
+.navbar-default {
+	border-bottom: 3px solid #0000AA;
+}
+
+.footer {
+	background: #fff;
+	border-top: 3px solid #0000AA;
+}
